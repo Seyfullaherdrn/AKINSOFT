@@ -1,0 +1,4 @@
+﻿  Toplamlari_bolunebilir_ciftler.cpp
+C:\Users\seyfullah.erduran\source\repos\Toplamlari_bolunebilir_ciftler\Toplamlari_bolunebilir_ciftler\Toplamlari_bolunebilir_ciftler.cpp(16,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\seyfullah.erduran\source\repos\Toplamlari_bolunebilir_ciftler\Toplamlari_bolunebilir_ciftler\Toplamlari_bolunebilir_ciftler.cpp(32,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Toplamlari_bolunebilir_ciftler.vcxproj -> C:\Users\seyfullah.erduran\source\repos\Toplamlari_bolunebilir_ciftler\x64\Debug\Toplamlari_bolunebilir_ciftler.exe
