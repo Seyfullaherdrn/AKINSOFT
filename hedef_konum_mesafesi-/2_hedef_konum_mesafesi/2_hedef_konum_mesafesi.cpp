@@ -1,4 +1,7 @@
-﻿#include <iostream>
+//Seyfullah ERDURAN   08/08/2024
+
+
+#include <iostream>
 #include <vector>
 #include <random>   
 #include <set>      
