@@ -1,12 +1,13 @@
-# Metin Şifreleme
+# Hedef Konum Mesafesi
 
-Bu proje, verilen bir metni belirli adımlara göre şifreleyen bir C++ uygulamasıdır. Metin, boşluklar kaldırılarak belirli bir boyuta sahip bir matrise yerleştirilir ve bu matris ekrana yazdırılarak şifrelenmiş metin elde edilir.
+Bu proje, belirli bir mesafe koÅŸuluyla bir robotun (Mini Ada) rastgele konumlar arasÄ±nda gezinti yapmasÄ±nÄ± simÃ¼le eden bir C++ uygulamasÄ±dÄ±r. Robot, 0 ile 20 arasÄ±ndaki rastgele konumlar arasÄ±nda gezinir ve her adÄ±mda ziyaret ettiÄŸi konumlarÄ± kaydeder. Robotun gezintisi sÄ±rasÄ±nda belirli kurallar Ã§erÃ§evesinde yeni konumlar seÃ§ilir.
 
-## Proje Özeti
+## Proje Ã–zeti
 
-- **Amaç:** Verilen bir metni, belirlenen boyutlara sahip bir matrise yerleştirerek şifrelemek.
-- **Girdi:** Kullanıcı tarafından sağlanan bir metin dosyası (`metin.txt`).
-- **Çıkış:** Şifrelenmiş metin, m x n boyutunda bir matris olarak ekrana yazdırılır.
+- **AmaÃ§:** Mini Ada'nÄ±n belirli bir mesafe koÅŸuluyla rastgele konumlar arasÄ±nda gezintisini simÃ¼le etmek.
+- **Girdi:** KullanÄ±cÄ±dan herhangi bir girdi alÄ±nmaz. Program, gezinti boyunca rastgele konumlarÄ± belirler.
+- **Ã‡Ä±kÄ±ÅŸ:** Mini Ada'nÄ±n ziyaret ettiÄŸi konumlar ekrana yazdÄ±rÄ±lÄ±r.
 
-## Kullanım
+## KullanÄ±m
 
+![image](https://github.com/user-attachments/assets/af989d76-d596-4944-828b-fe22ebb45994)
