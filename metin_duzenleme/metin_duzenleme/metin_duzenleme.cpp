@@ -1,21 +1,23 @@
-﻿#include <iostream>
+//Seyfullah ERDURAN   08/08/2024
+
+#include <iostream>
 #include <string>
 #include <stack>
 #include <fstream>
 
 using namespace std;
 
-// Geri alma işlemleri için bir yapı
+
 struct Action {
     string type;
     string value;
 };
 
-// Geri alma işlemlerini tutacak bir yığın
+
 stack<Action> actions;
 
 int main() {
-    string text = ""; // Başlangıçta boş bir metin
+    string text = ""; 
     string command;
     string argument;
     int count;
@@ -63,7 +65,7 @@ int main() {
             ofstream outFile(argument);
             outFile << text;
             outFile.close();
-            break; // Programı sonlandır
+            break; 
 
         }
         else {
