@@ -1,0 +1,5 @@
+﻿  Metin_sifreleme.cpp
+C:\Users\seyfullah.erduran\source\repos\Metin_sifreleme\Metin_sifreleme\Metin_sifreleme.cpp(65,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\seyfullah.erduran\source\repos\Metin_sifreleme\Metin_sifreleme\Metin_sifreleme.cpp(68,11): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\seyfullah.erduran\source\repos\Metin_sifreleme\Metin_sifreleme\Metin_sifreleme.cpp(69,11): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Metin_sifreleme.vcxproj -> C:\Users\seyfullah.erduran\source\repos\Metin_sifreleme\x64\Debug\Metin_sifreleme.exe
