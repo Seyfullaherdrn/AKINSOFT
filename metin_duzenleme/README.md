@@ -1,28 +1,25 @@
-# Metin Düzenleyici
+# Metin DÃ¼zenleyici
 
-Bu proje, basit bir metin düzenleyicisi geliştirmeyi amaçlar. Kullanıcı, çeşitli komutlar kullanarak metin üzerinde işlem yapabilir. Bu düzenleyici, ekleme, silme, geri alma ve metni dosyaya kaydetme gibi temel işlemleri destekler.
+Bu proje, basit bir metin dÃ¼zenleyicisi geliÅŸtirmeyi amaÃ§lar. KullanÄ±cÄ±, Ã§eÅŸitli komutlar kullanarak metin Ã¼zerinde iÅŸlem yapabilir. Bu dÃ¼zenleyici, ekleme, silme, geri alma ve metni dosyaya kaydetme gibi temel iÅŸlemleri destekler.
 
-## Özellikler
+## Ã–zellikler
 
-- **Metin Ekleme:** Kullanıcı tarafından girilen bir karakter dizisi mevcut metnin sonuna eklenir.
-- **Karakter Silme:** Kullanıcı tarafından belirtilen sayıda karakter, metnin sonundan silinir.
-- **Metin Yazdırma:** Metnin belirtilen sayıda karakteri ekrana yazdırılır.
-- **Geri Alma:** En son yapılan işlem geri alınır.
+- **Metin Ekleme:** KullanÄ±cÄ± tarafÄ±ndan girilen bir karakter dizisi mevcut metnin sonuna eklenir.
+- **Karakter Silme:** KullanÄ±cÄ± tarafÄ±ndan belirtilen sayÄ±da karakter, metnin sonundan silinir.
+- **Metin YazdÄ±rma:** Metnin belirtilen sayÄ±da karakteri ekrana yazdÄ±rÄ±lÄ±r.
+- **Geri Alma:** En son yapÄ±lan iÅŸlem geri alÄ±nÄ±r.
 - **Dosyaya Kaydetme:** Mevcut metin, belirtilen bir dosyaya kaydedilir.
 
 ## Komutlar
 
-Aşağıda kullanıcı tarafından kullanılabilen komutlar ve açıklamaları verilmiştir:
+AÅŸaÄŸÄ±da kullanÄ±cÄ± tarafÄ±ndan kullanÄ±labilen komutlar ve aÃ§Ä±klamalarÄ± verilmiÅŸtir:
 
-1. **append(s):** Kullanıcı tarafından girilen `s` karakter dizisini metnin sonuna ekler.
-2. **delete(k):** Metnin sonundan başlayarak `k` adet karakteri siler.
-3. **print(k):** Metnin ilk `k` karakterini ekrana yazdırır.
-4. **undo():** Son yapılan işlemi geri alır.
-5. **save(filename):** Mevcut metni belirtilen `filename` isimli dosyaya kaydeder ve programı sonlandırır.
+1. **append(s):** KullanÄ±cÄ± tarafÄ±ndan girilen `s` karakter dizisini metnin sonuna ekler.
+2. **delete(k):** Metnin sonundan baÅŸlayarak `k` adet karakteri siler.
+3. **print(k):** Metnin ilk `k` karakterini ekrana yazdÄ±rÄ±r.
+4. **undo():** Son yapÄ±lan iÅŸlemi geri alÄ±r.
+5. **save(filename):** Mevcut metni belirtilen `filename` isimli dosyaya kaydeder ve programÄ± sonlandÄ±rÄ±r.
 
-## Kullanım
+## KullanÄ±m
 
-1. **Projeyi Derleme:**
-
-   ```bash
-   g++ -o metin_duzenleyici main.cpp
+![image](https://github.com/user-attachments/assets/4bf1b443-24f6-4f4d-9a19-23eb08c97481)
