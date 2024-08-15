@@ -1,25 +1,26 @@
-# Tam Bölünebilir Çiftler
+# Tam BÃ¶lÃ¼nebilir Ã‡iftler
 
-Bu proje, verilen bir dizideki sayý çiftlerinin toplamlarýnýn belirli bir pozitif tamsayýya tam bölünüp bölünmediðini kontrol eden bir C++ uygulamasýdýr. Kullanýcýdan dizinin uzunluðu ve tam bölünecek sayý girdileri alýnýr. Program, rastgele bir dizi oluþturur ve `i < j` koþuluna uygun olan, toplamlarý belirtilen sayýya tam bölünebilen tüm çiftleri ekrana yazdýrýr.
+Bu proje, verilen bir dizideki sayÄ± Ã§iftlerinin toplamlarÄ±nÄ±n belirli bir pozitif tamsayÄ±ya tam bÃ¶lÃ¼nÃ¼p bÃ¶lÃ¼nmediÄŸini kontrol eden bir C++ uygulamasÄ±dÄ±r. KullanÄ±cÄ±dan dizinin uzunluÄŸu ve tam bÃ¶lÃ¼necek sayÄ± girdileri alÄ±nÄ±r. Program, rastgele bir dizi oluÅŸturur ve `i < j` koÅŸuluna uygun olan, toplamlarÄ± belirtilen sayÄ±ya tam bÃ¶lÃ¼nebilen tÃ¼m Ã§iftleri ekrana yazdÄ±rÄ±r.
 
-## Proje Özeti
+## Proje Ã–zeti
 
-- **Amaç:** Verilen bir dizideki sayý çiftlerinin toplamlarýnýn, kullanýcý tarafýndan belirtilen `k` pozitif tamsayýsýna tam bölünüp bölünmediðini kontrol etmek.
-- **Girdi:** Kullanýcýdan dizinin uzunluðu (`n`) ve tam bölünecek sayý (`k`) alýnýr.
-- **Çýkýþ:** `i < j` koþuluna uygun olan ve toplamlarý `k`'ya tam bölünen çiftlerin indisleri ekrana yazdýrýlýr.
+- **AmaÃ§:** Verilen bir dizideki sayÄ± Ã§iftlerinin toplamlarÄ±nÄ±n, kullanÄ±cÄ± tarafÄ±ndan belirtilen `k` pozitif tamsayÄ±sÄ±na tam bÃ¶lÃ¼nÃ¼p bÃ¶lÃ¼nmediÄŸini kontrol etmek.
+- **Girdi:** KullanÄ±cÄ±dan dizinin uzunluÄŸu (`n`) ve tam bÃ¶lÃ¼necek sayÄ± (`k`) alÄ±nÄ±r.
+- **Ã‡Ä±kÄ±ÅŸ:** `i < j` koÅŸuluna uygun olan ve toplamlarÄ± `k`'ya tam bÃ¶lÃ¼nen Ã§iftlerin indisleri ekrana yazdÄ±rÄ±lÄ±r.
 
-## Kullaným
+## KullanÄ±m
 
-###Giriþ ve Çýkýþ
-- **Giriþ:** Program, kullanýcýdan dizinin uzunluðunu (n) ve tam bölünecek sayýyý (k) isteyecektir.
-- **Çýkýþ:** Program, rastgele sayýlardan oluþan bir dizi oluþturacak ve toplamlarý k'ya tam bölünebilen çiftlerin indislerini ekrana yazdýracaktýr.
+###GiriÅŸ ve Ã‡Ä±kÄ±ÅŸ
+- **GiriÅŸ:** Program, kullanÄ±cÄ±dan dizinin uzunluÄŸunu (n) ve tam bÃ¶lÃ¼necek sayÄ±yÄ± (k) isteyecektir.
+- **Ã‡Ä±kÄ±ÅŸ:** Program, rastgele sayÄ±lardan oluÅŸan bir dizi oluÅŸturacak ve toplamlarÄ± k'ya tam bÃ¶lÃ¼nebilen Ã§iftlerin indislerini ekrana yazdÄ±racaktÄ±r.
 
-- Örnek Kullaným
+- Ã–rnek KullanÄ±m
 
 **Girdi:**
-Dizinin uzunluðu: n = 6
-Tam bölünecek sayý: k = 5
+Dizinin uzunluÄŸu: n = 6
+Tam bÃ¶lÃ¼necek sayÄ±: k = 5
 
+![image](https://github.com/user-attachments/assets/1eaecd16-871d-45e5-adff-2145ffe483d4)
 
 
 
