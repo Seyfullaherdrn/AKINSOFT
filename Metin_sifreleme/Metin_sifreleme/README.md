@@ -1,12 +1,13 @@
-# Metin Şifreleme
+# Metin Åifreleme
 
-Bu proje, verilen bir metni belirli adımlara göre şifreleyen bir C++ uygulamasıdır. Metin, boşluklar kaldırılarak belirli bir boyuta sahip bir matrise yerleştirilir ve bu matris ekrana yazdırılarak şifrelenmiş metin elde edilir.
+Bu proje, verilen bir metni belirli adÄ±mlara gÃ¶re ÅŸifreleyen bir C++ uygulamasÄ±dÄ±r. Metin, boÅŸluklar kaldÄ±rÄ±larak belirli bir boyuta sahip bir matrise yerleÅŸtirilir ve bu matris ekrana yazdÄ±rÄ±larak ÅŸifrelenmiÅŸ metin elde edilir.
 
-## Proje Özeti
+## Proje Ã–zeti
 
-- **Amaç:** Verilen bir metni, belirlenen boyutlara sahip bir matrise yerleştirerek şifrelemek.
-- **Girdi:** Kullanıcı tarafından sağlanan bir metin dosyası (`metin.txt`).
-- **Çıkış:** Şifrelenmiş metin, m x n boyutunda bir matris olarak ekrana yazdırılır.
+- **AmaÃ§:** Verilen bir metni, belirlenen boyutlara sahip bir matrise yerleÅŸtirerek ÅŸifrelemek.
+- **Girdi:** KullanÄ±cÄ± tarafÄ±ndan saÄŸlanan bir metin dosyasÄ± (`metin.txt`).
+- **Ã‡Ä±kÄ±ÅŸ:** ÅifrelenmiÅŸ metin, m x n boyutunda bir matris olarak ekrana yazdÄ±rÄ±lÄ±r.
 
-## Kullanım
+## KullanÄ±m
 
+![image](https://github.com/user-attachments/assets/ded98ce0-7f18-40ee-8120-98c9b9074c27)
