@@ -1,5 +1,0 @@
-﻿  sonsifre.cpp
-C:\Users\seyfullah.erduran\source\repos\sonsifre\sonsifre\sonsifre.cpp(62,11): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
-C:\Users\seyfullah.erduran\source\repos\sonsifre\sonsifre\sonsifre.cpp(65,11): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
-C:\Users\seyfullah.erduran\source\repos\sonsifre\sonsifre\sonsifre.cpp(66,11): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
-  sonsifre.vcxproj -> C:\Users\seyfullah.erduran\source\repos\sonsifre\sonsifre\x64\Debug\sonsifre.exe
