@@ -1,4 +1,6 @@
-﻿#include <iostream>
+//Seyfullah ERDURAN   08/08/2024
+
+#include <iostream>
 #include <vector>
 #include <cstdlib>  // std::rand ve std::srand için gerekli
 #include <ctime>    // std::time için gerekli
